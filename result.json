@@ -1,0 +1,5062 @@
+{
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8": {
+    ".idea": {
+      "object_size": 3711,
+      "object_type": "directory",
+      "parant_directory": "Python_advanced"
+    },
+    "File_manager": {
+      "object_size": 30926,
+      "object_type": "directory",
+      "parant_directory": "Python_advanced"
+    },
+    "Lib": {
+      "object_size": 11993577,
+      "object_type": "directory",
+      "parant_directory": "Python_advanced"
+    },
+    "Scripts": {
+      "object_size": 1410773,
+      "object_type": "directory",
+      "parant_directory": "Python_advanced"
+    },
+    ".gitignore": {
+      "object_size": 42,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "data.csv": {
+      "object_size": 84,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "data.json": {
+      "object_size": 148,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "data.txt": {
+      "object_size": 127,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "data1.json": {
+      "object_size": 103,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "data2.json": {
+      "object_size": 650,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "main.py": {
+      "object_size": 1890,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "pyvenv.cfg": {
+      "object_size": 446,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "README.md": {
+      "object_size": 1347,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "result.csv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "result.json": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    },
+    "result.pickle": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar8"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\.idea": {
+    "inspectionProfiles": {
+      "object_size": 584,
+      "object_type": "directory",
+      "parant_directory": "Seminar8"
+    },
+    ".gitignore": {
+      "object_size": 50,
+      "object_type": "file",
+      "parant_directory": ".idea"
+    },
+    "misc.xml": {
+      "object_size": 189,
+      "object_type": "file",
+      "parant_directory": ".idea"
+    },
+    "modules.xml": {
+      "object_size": 275,
+      "object_type": "file",
+      "parant_directory": ".idea"
+    },
+    "Seminar8.iml": {
+      "object_size": 486,
+      "object_type": "file",
+      "parant_directory": ".idea"
+    },
+    "workspace.xml": {
+      "object_size": 2127,
+      "object_type": "file",
+      "parant_directory": ".idea"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\.idea\\inspectionProfiles": {
+    "profiles_settings.xml": {
+      "object_size": 174,
+      "object_type": "file",
+      "parant_directory": "inspectionProfiles"
+    },
+    "Project_Default.xml": {
+      "object_size": 410,
+      "object_type": "file",
+      "parant_directory": "inspectionProfiles"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\File_manager": {
+    "__pycache__": {
+      "object_size": 18291,
+      "object_type": "directory",
+      "parant_directory": "Seminar8"
+    },
+    "create_file_json.py": {
+      "object_size": 4301,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "create_file_txt.py": {
+      "object_size": 568,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "csv_to_json.py": {
+      "object_size": 1717,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "directory_reference.py": {
+      "object_size": 3592,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "json_to_csv.py": {
+      "object_size": 1522,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "txt_to_json.py": {
+      "object_size": 935,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\File_manager\\__pycache__": {
+    "create_file_json.cpython-311.pyc": {
+      "object_size": 4207,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "create_file_txt.cpython-311.pyc": {
+      "object_size": 1451,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "csv_to_json.cpython-311.pyc": {
+      "object_size": 2991,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "directory_reference.cpython-311.pyc": {
+      "object_size": 5435,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "json_to_csv.cpython-311.pyc": {
+      "object_size": 2403,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "txt_to_json.cpython-311.pyc": {
+      "object_size": 1584,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "__init__.cpython-311.pyc": {
+      "object_size": 220,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib": {
+    "site-packages": {
+      "object_size": 11993577,
+      "object_type": "directory",
+      "parant_directory": "Seminar8"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages": {
+    "pip": {
+      "object_size": 6847400,
+      "object_type": "directory",
+      "parant_directory": "Lib"
+    },
+    "pip-22.3.1.dist-info": {
+      "object_size": 76670,
+      "object_type": "directory",
+      "parant_directory": "Lib"
+    },
+    "pkg_resources": {
+      "object_size": 1863853,
+      "object_type": "directory",
+      "parant_directory": "Lib"
+    },
+    "setuptools": {
+      "object_size": 3027307,
+      "object_type": "directory",
+      "parant_directory": "Lib"
+    },
+    "setuptools-65.5.1.dist-info": {
+      "object_size": 45895,
+      "object_type": "directory",
+      "parant_directory": "Lib"
+    },
+    "wheel": {
+      "object_size": 95910,
+      "object_type": "directory",
+      "parant_directory": "Lib"
+    },
+    "wheel-0.38.4.dist-info": {
+      "object_size": 6262,
+      "object_type": "directory",
+      "parant_directory": "Lib"
+    },
+    "_distutils_hack": {
+      "object_size": 17378,
+      "object_type": "directory",
+      "parant_directory": "Lib"
+    },
+    "__pycache__": {
+      "object_size": 6963,
+      "object_type": "directory",
+      "parant_directory": "Lib"
+    },
+    "distutils-precedence.pth": {
+      "object_size": 151,
+      "object_type": "file",
+      "parant_directory": "site-packages"
+    },
+    "pip-22.3.1.virtualenv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "site-packages"
+    },
+    "setuptools-65.5.1.virtualenv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "site-packages"
+    },
+    "wheel-0.38.4.virtualenv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "site-packages"
+    },
+    "_virtualenv.pth": {
+      "object_size": 18,
+      "object_type": "file",
+      "parant_directory": "site-packages"
+    },
+    "_virtualenv.py": {
+      "object_size": 5770,
+      "object_type": "file",
+      "parant_directory": "site-packages"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip": {
+    "_internal": {
+      "object_size": 1035611,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "_vendor": {
+      "object_size": 5808504,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "py.typed": {
+      "object_size": 286,
+      "object_type": "file",
+      "parant_directory": "pip"
+    },
+    "__init__.py": {
+      "object_size": 357,
+      "object_type": "file",
+      "parant_directory": "pip"
+    },
+    "__main__.py": {
+      "object_size": 1198,
+      "object_type": "file",
+      "parant_directory": "pip"
+    },
+    "__pip-runner__.py": {
+      "object_size": 1444,
+      "object_type": "file",
+      "parant_directory": "pip"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal": {
+    "cli": {
+      "object_size": 87806,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "commands": {
+      "object_size": 119848,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "distributions": {
+      "object_size": 10466,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "index": {
+      "object_size": 60686,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "locations": {
+      "object_size": 34294,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "metadata": {
+      "object_size": 59552,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "models": {
+      "object_size": 45927,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "network": {
+      "object_size": 52426,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "operations": {
+      "object_size": 87624,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "req": {
+      "object_size": 99567,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "resolution": {
+      "object_size": 111906,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "utils": {
+      "object_size": 118977,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "vcs": {
+      "object_size": 62007,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "build_env.py": {
+      "object_size": 10234,
+      "object_type": "file",
+      "parant_directory": "_internal"
+    },
+    "cache.py": {
+      "object_size": 10734,
+      "object_type": "file",
+      "parant_directory": "_internal"
+    },
+    "configuration.py": {
+      "object_size": 13529,
+      "object_type": "file",
+      "parant_directory": "_internal"
+    },
+    "exceptions.py": {
+      "object_size": 20942,
+      "object_type": "file",
+      "parant_directory": "_internal"
+    },
+    "main.py": {
+      "object_size": 340,
+      "object_type": "file",
+      "parant_directory": "_internal"
+    },
+    "pyproject.py": {
+      "object_size": 7074,
+      "object_type": "file",
+      "parant_directory": "_internal"
+    },
+    "self_outdated_check.py": {
+      "object_size": 8020,
+      "object_type": "file",
+      "parant_directory": "_internal"
+    },
+    "wheel_builder.py": {
+      "object_size": 13079,
+      "object_type": "file",
+      "parant_directory": "_internal"
+    },
+    "__init__.py": {
+      "object_size": 573,
+      "object_type": "file",
+      "parant_directory": "_internal"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\cli": {
+    "autocompletion.py": {
+      "object_size": 6676,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "base_command.py": {
+      "object_size": 7842,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "cmdoptions.py": {
+      "object_size": 29381,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "command_context.py": {
+      "object_size": 774,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "main.py": {
+      "object_size": 2472,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "main_parser.py": {
+      "object_size": 4338,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "parser.py": {
+      "object_size": 10817,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "progress_bars.py": {
+      "object_size": 1968,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "req_command.py": {
+      "object_size": 18172,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "spinners.py": {
+      "object_size": 5118,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "status_codes.py": {
+      "object_size": 116,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "__init__.py": {
+      "object_size": 132,
+      "object_type": "file",
+      "parant_directory": "cli"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\commands": {
+    "cache.py": {
+      "object_size": 7582,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "check.py": {
+      "object_size": 1685,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "completion.py": {
+      "object_size": 4129,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "configuration.py": {
+      "object_size": 9815,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "debug.py": {
+      "object_size": 6573,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "download.py": {
+      "object_size": 5289,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "freeze.py": {
+      "object_size": 2951,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "hash.py": {
+      "object_size": 1703,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "help.py": {
+      "object_size": 1132,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "index.py": {
+      "object_size": 4762,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "inspect.py": {
+      "object_size": 3374,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "install.py": {
+      "object_size": 31726,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "list.py": {
+      "object_size": 12343,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "search.py": {
+      "object_size": 5697,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "show.py": {
+      "object_size": 6129,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "uninstall.py": {
+      "object_size": 3680,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "wheel.py": {
+      "object_size": 7396,
+      "object_type": "file",
+      "parant_directory": "commands"
+    },
+    "__init__.py": {
+      "object_size": 3882,
+      "object_type": "file",
+      "parant_directory": "commands"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\distributions": {
+    "base.py": {
+      "object_size": 1221,
+      "object_type": "file",
+      "parant_directory": "distributions"
+    },
+    "installed.py": {
+      "object_size": 729,
+      "object_type": "file",
+      "parant_directory": "distributions"
+    },
+    "sdist.py": {
+      "object_size": 6494,
+      "object_type": "file",
+      "parant_directory": "distributions"
+    },
+    "wheel.py": {
+      "object_size": 1164,
+      "object_type": "file",
+      "parant_directory": "distributions"
+    },
+    "__init__.py": {
+      "object_size": 858,
+      "object_type": "file",
+      "parant_directory": "distributions"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\index": {
+    "collector.py": {
+      "object_size": 16503,
+      "object_type": "file",
+      "parant_directory": "index"
+    },
+    "package_finder.py": {
+      "object_size": 37596,
+      "object_type": "file",
+      "parant_directory": "index"
+    },
+    "sources.py": {
+      "object_size": 6557,
+      "object_type": "file",
+      "parant_directory": "index"
+    },
+    "__init__.py": {
+      "object_size": 30,
+      "object_type": "file",
+      "parant_directory": "index"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\locations": {
+    "base.py": {
+      "object_size": 2573,
+      "object_type": "file",
+      "parant_directory": "locations"
+    },
+    "_distutils.py": {
+      "object_size": 6302,
+      "object_type": "file",
+      "parant_directory": "locations"
+    },
+    "_sysconfig.py": {
+      "object_size": 7867,
+      "object_type": "file",
+      "parant_directory": "locations"
+    },
+    "__init__.py": {
+      "object_size": 17552,
+      "object_type": "file",
+      "parant_directory": "locations"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\metadata": {
+    "importlib": {
+      "object_size": 17627,
+      "object_type": "directory",
+      "parant_directory": "_internal"
+    },
+    "base.py": {
+      "object_size": 25277,
+      "object_type": "file",
+      "parant_directory": "metadata"
+    },
+    "pkg_resources.py": {
+      "object_size": 9773,
+      "object_type": "file",
+      "parant_directory": "metadata"
+    },
+    "_json.py": {
+      "object_size": 2595,
+      "object_type": "file",
+      "parant_directory": "metadata"
+    },
+    "__init__.py": {
+      "object_size": 4280,
+      "object_type": "file",
+      "parant_directory": "metadata"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib": {
+    "_compat.py": {
+      "object_size": 1882,
+      "object_type": "file",
+      "parant_directory": "importlib"
+    },
+    "_dists.py": {
+      "object_size": 8181,
+      "object_type": "file",
+      "parant_directory": "importlib"
+    },
+    "_envs.py": {
+      "object_size": 7457,
+      "object_type": "file",
+      "parant_directory": "importlib"
+    },
+    "__init__.py": {
+      "object_size": 107,
+      "object_type": "file",
+      "parant_directory": "importlib"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\models": {
+    "candidate.py": {
+      "object_size": 990,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "direct_url.py": {
+      "object_size": 5877,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "format_control.py": {
+      "object_size": 2520,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "index.py": {
+      "object_size": 1030,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "installation_report.py": {
+      "object_size": 2617,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "link.py": {
+      "object_size": 18083,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "scheme.py": {
+      "object_size": 738,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "search_scope.py": {
+      "object_size": 4644,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "selection_prefs.py": {
+      "object_size": 1907,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "target_python.py": {
+      "object_size": 3858,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "wheel.py": {
+      "object_size": 3600,
+      "object_type": "file",
+      "parant_directory": "models"
+    },
+    "__init__.py": {
+      "object_size": 63,
+      "object_type": "file",
+      "parant_directory": "models"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\network": {
+    "auth.py": {
+      "object_size": 12190,
+      "object_type": "file",
+      "parant_directory": "network"
+    },
+    "cache.py": {
+      "object_size": 2145,
+      "object_type": "file",
+      "parant_directory": "network"
+    },
+    "download.py": {
+      "object_size": 6096,
+      "object_type": "file",
+      "parant_directory": "network"
+    },
+    "lazy_wheel.py": {
+      "object_size": 7638,
+      "object_type": "file",
+      "parant_directory": "network"
+    },
+    "session.py": {
+      "object_size": 18443,
+      "object_type": "file",
+      "parant_directory": "network"
+    },
+    "utils.py": {
+      "object_size": 4073,
+      "object_type": "file",
+      "parant_directory": "network"
+    },
+    "xmlrpc.py": {
+      "object_size": 1791,
+      "object_type": "file",
+      "parant_directory": "network"
+    },
+    "__init__.py": {
+      "object_size": 50,
+      "object_type": "file",
+      "parant_directory": "network"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\operations": {
+    "build": {
+      "object_size": 14723,
+      "object_type": "directory",
+      "parant_directory": "_internal"
+    },
+    "install": {
+      "object_size": 32917,
+      "object_type": "directory",
+      "parant_directory": "_internal"
+    },
+    "check.py": {
+      "object_size": 5109,
+      "object_type": "file",
+      "parant_directory": "operations"
+    },
+    "freeze.py": {
+      "object_size": 9784,
+      "object_type": "file",
+      "parant_directory": "operations"
+    },
+    "prepare.py": {
+      "object_size": 25091,
+      "object_type": "file",
+      "parant_directory": "operations"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "operations"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\operations\\build": {
+    "build_tracker.py": {
+      "object_size": 4133,
+      "object_type": "file",
+      "parant_directory": "build"
+    },
+    "metadata.py": {
+      "object_size": 1404,
+      "object_type": "file",
+      "parant_directory": "build"
+    },
+    "metadata_editable.py": {
+      "object_size": 1456,
+      "object_type": "file",
+      "parant_directory": "build"
+    },
+    "metadata_legacy.py": {
+      "object_size": 2198,
+      "object_type": "file",
+      "parant_directory": "build"
+    },
+    "wheel.py": {
+      "object_size": 1063,
+      "object_type": "file",
+      "parant_directory": "build"
+    },
+    "wheel_editable.py": {
+      "object_size": 1405,
+      "object_type": "file",
+      "parant_directory": "build"
+    },
+    "wheel_legacy.py": {
+      "object_size": 3064,
+      "object_type": "file",
+      "parant_directory": "build"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "build"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\operations\\install": {
+    "editable_legacy.py": {
+      "object_size": 1354,
+      "object_type": "file",
+      "parant_directory": "install"
+    },
+    "legacy.py": {
+      "object_size": 4105,
+      "object_type": "file",
+      "parant_directory": "install"
+    },
+    "wheel.py": {
+      "object_size": 27407,
+      "object_type": "file",
+      "parant_directory": "install"
+    },
+    "__init__.py": {
+      "object_size": 51,
+      "object_type": "file",
+      "parant_directory": "install"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\req": {
+    "constructors.py": {
+      "object_size": 16611,
+      "object_type": "file",
+      "parant_directory": "req"
+    },
+    "req_file.py": {
+      "object_size": 17646,
+      "object_type": "file",
+      "parant_directory": "req"
+    },
+    "req_install.py": {
+      "object_size": 35600,
+      "object_type": "file",
+      "parant_directory": "req"
+    },
+    "req_set.py": {
+      "object_size": 2858,
+      "object_type": "file",
+      "parant_directory": "req"
+    },
+    "req_uninstall.py": {
+      "object_size": 24045,
+      "object_type": "file",
+      "parant_directory": "req"
+    },
+    "__init__.py": {
+      "object_size": 2807,
+      "object_type": "file",
+      "parant_directory": "req"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\resolution": {
+    "legacy": {
+      "object_size": 24129,
+      "object_type": "directory",
+      "parant_directory": "_internal"
+    },
+    "resolvelib": {
+      "object_size": 87194,
+      "object_type": "directory",
+      "parant_directory": "_internal"
+    },
+    "base.py": {
+      "object_size": 583,
+      "object_type": "file",
+      "parant_directory": "resolution"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "resolution"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy": {
+    "resolver.py": {
+      "object_size": 24129,
+      "object_type": "file",
+      "parant_directory": "legacy"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "legacy"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib": {
+    "base.py": {
+      "object_size": 5220,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "candidates.py": {
+      "object_size": 18963,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "factory.py": {
+      "object_size": 27878,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "found_candidates.py": {
+      "object_size": 5705,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "provider.py": {
+      "object_size": 9914,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "reporter.py": {
+      "object_size": 2526,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "requirements.py": {
+      "object_size": 5455,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "resolver.py": {
+      "object_size": 11533,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\utils": {
+    "appdirs.py": {
+      "object_size": 1665,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "compat.py": {
+      "object_size": 1884,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "compatibility_tags.py": {
+      "object_size": 5377,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "datetime.py": {
+      "object_size": 242,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "deprecation.py": {
+      "object_size": 5764,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "direct_url_helpers.py": {
+      "object_size": 3206,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "distutils_args.py": {
+      "object_size": 1115,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "egg_link.py": {
+      "object_size": 2203,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "encoding.py": {
+      "object_size": 1169,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "entrypoints.py": {
+      "object_size": 3064,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "filesystem.py": {
+      "object_size": 5122,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "filetypes.py": {
+      "object_size": 716,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "glibc.py": {
+      "object_size": 3110,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "hashes.py": {
+      "object_size": 4831,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "inject_securetransport.py": {
+      "object_size": 795,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "logging.py": {
+      "object_size": 11632,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "misc.py": {
+      "object_size": 21617,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "models.py": {
+      "object_size": 1193,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "packaging.py": {
+      "object_size": 2108,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "setuptools_build.py": {
+      "object_size": 5662,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "subprocess.py": {
+      "object_size": 9197,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "temp_dir.py": {
+      "object_size": 7702,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "unpacking.py": {
+      "object_size": 8821,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "urls.py": {
+      "object_size": 1759,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "virtualenv.py": {
+      "object_size": 3459,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "wheel.py": {
+      "object_size": 4549,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "_log.py": {
+      "object_size": 1015,
+      "object_type": "file",
+      "parant_directory": "utils"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "utils"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_internal\\vcs": {
+    "bazaar.py": {
+      "object_size": 3518,
+      "object_type": "file",
+      "parant_directory": "vcs"
+    },
+    "git.py": {
+      "object_size": 18116,
+      "object_type": "file",
+      "parant_directory": "vcs"
+    },
+    "mercurial.py": {
+      "object_size": 5238,
+      "object_type": "file",
+      "parant_directory": "vcs"
+    },
+    "subversion.py": {
+      "object_size": 11728,
+      "object_type": "file",
+      "parant_directory": "vcs"
+    },
+    "versioncontrol.py": {
+      "object_size": 22811,
+      "object_type": "file",
+      "parant_directory": "vcs"
+    },
+    "__init__.py": {
+      "object_size": 596,
+      "object_type": "file",
+      "parant_directory": "vcs"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor": {
+    "cachecontrol": {
+      "object_size": 48131,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "certifi": {
+      "object_size": 290998,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "chardet": {
+      "object_size": 1092504,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "colorama": {
+      "object_size": 27348,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "distlib": {
+      "object_size": 1139219,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "distro": {
+      "object_size": 49886,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "idna": {
+      "object_size": 270310,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "msgpack": {
+      "object_size": 42850,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "packaging": {
+      "object_size": 96292,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "pep517": {
+      "object_size": 47390,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "pkg_resources": {
+      "object_size": 108849,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "platformdirs": {
+      "object_size": 39067,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "pygments": {
+      "object_size": 479266,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "pyparsing": {
+      "object_size": 370049,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "requests": {
+      "object_size": 180427,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "resolvelib": {
+      "object_size": 30534,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "rich": {
+      "object_size": 878477,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "tenacity": {
+      "object_size": 50281,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "tomli": {
+      "object_size": 26226,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "urllib3": {
+      "object_size": 388569,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "webencodings": {
+      "object_size": 31733,
+      "object_type": "directory",
+      "parant_directory": "pip"
+    },
+    "six.py": {
+      "object_size": 34549,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    },
+    "typing_extensions.py": {
+      "object_size": 80114,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    },
+    "vendor.txt": {
+      "object_size": 469,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    },
+    "__init__.py": {
+      "object_size": 4966,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\cachecontrol": {
+    "caches": {
+      "object_size": 6546,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "adapter.py": {
+      "object_size": 5033,
+      "object_type": "file",
+      "parant_directory": "cachecontrol"
+    },
+    "cache.py": {
+      "object_size": 1535,
+      "object_type": "file",
+      "parant_directory": "cachecontrol"
+    },
+    "compat.py": {
+      "object_size": 778,
+      "object_type": "file",
+      "parant_directory": "cachecontrol"
+    },
+    "controller.py": {
+      "object_size": 16416,
+      "object_type": "file",
+      "parant_directory": "cachecontrol"
+    },
+    "filewrapper.py": {
+      "object_size": 3946,
+      "object_type": "file",
+      "parant_directory": "cachecontrol"
+    },
+    "heuristics.py": {
+      "object_size": 4154,
+      "object_type": "file",
+      "parant_directory": "cachecontrol"
+    },
+    "serialize.py": {
+      "object_size": 7105,
+      "object_type": "file",
+      "parant_directory": "cachecontrol"
+    },
+    "wrapper.py": {
+      "object_size": 774,
+      "object_type": "file",
+      "parant_directory": "cachecontrol"
+    },
+    "_cmd.py": {
+      "object_size": 1379,
+      "object_type": "file",
+      "parant_directory": "cachecontrol"
+    },
+    "__init__.py": {
+      "object_size": 465,
+      "object_type": "file",
+      "parant_directory": "cachecontrol"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches": {
+    "file_cache.py": {
+      "object_size": 5271,
+      "object_type": "file",
+      "parant_directory": "caches"
+    },
+    "redis_cache.py": {
+      "object_size": 1033,
+      "object_type": "file",
+      "parant_directory": "caches"
+    },
+    "__init__.py": {
+      "object_size": 242,
+      "object_type": "file",
+      "parant_directory": "caches"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\certifi": {
+    "cacert.pem": {
+      "object_size": 286370,
+      "object_type": "file",
+      "parant_directory": "certifi"
+    },
+    "core.py": {
+      "object_size": 4279,
+      "object_type": "file",
+      "parant_directory": "certifi"
+    },
+    "__init__.py": {
+      "object_size": 94,
+      "object_type": "file",
+      "parant_directory": "certifi"
+    },
+    "__main__.py": {
+      "object_size": 255,
+      "object_type": "file",
+      "parant_directory": "certifi"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\chardet": {
+    "cli": {
+      "object_size": 2406,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "metadata": {
+      "object_size": 13280,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "big5freq.py": {
+      "object_size": 31274,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "big5prober.py": {
+      "object_size": 1741,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "chardistribution.py": {
+      "object_size": 9608,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "charsetgroupprober.py": {
+      "object_size": 3817,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "charsetprober.py": {
+      "object_size": 4801,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "codingstatemachine.py": {
+      "object_size": 3559,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "cp949prober.py": {
+      "object_size": 1838,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "enums.py": {
+      "object_size": 1619,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "escprober.py": {
+      "object_size": 3864,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "escsm.py": {
+      "object_size": 12021,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "eucjpprober.py": {
+      "object_size": 3676,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "euckrfreq.py": {
+      "object_size": 13566,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "euckrprober.py": {
+      "object_size": 1731,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "euctwfreq.py": {
+      "object_size": 36913,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "euctwprober.py": {
+      "object_size": 1731,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "gb2312freq.py": {
+      "object_size": 20735,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "gb2312prober.py": {
+      "object_size": 1737,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "hebrewprober.py": {
+      "object_size": 13919,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "jisfreq.py": {
+      "object_size": 25796,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "johabfreq.py": {
+      "object_size": 42498,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "johabprober.py": {
+      "object_size": 1730,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "jpcntx.py": {
+      "object_size": 26797,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "langbulgarianmodel.py": {
+      "object_size": 104562,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "langgreekmodel.py": {
+      "object_size": 98484,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "langhebrewmodel.py": {
+      "object_size": 98196,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "langhungarianmodel.py": {
+      "object_size": 101363,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "langrussianmodel.py": {
+      "object_size": 128035,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "langthaimodel.py": {
+      "object_size": 102774,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "langturkishmodel.py": {
+      "object_size": 95372,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "latin1prober.py": {
+      "object_size": 5260,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "mbcharsetprober.py": {
+      "object_size": 3367,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "mbcsgroupprober.py": {
+      "object_size": 2056,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "mbcssm.py": {
+      "object_size": 30068,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "sbcharsetprober.py": {
+      "object_size": 6199,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "sbcsgroupprober.py": {
+      "object_size": 4129,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "sjisprober.py": {
+      "object_size": 3749,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "universaldetector.py": {
+      "object_size": 13288,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "utf1632prober.py": {
+      "object_size": 8289,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "utf8prober.py": {
+      "object_size": 2709,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "version.py": {
+      "object_size": 242,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    },
+    "__init__.py": {
+      "object_size": 3705,
+      "object_type": "file",
+      "parant_directory": "chardet"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli": {
+    "chardetect.py": {
+      "object_size": 2406,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "cli"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata": {
+    "languages.py": {
+      "object_size": 13280,
+      "object_type": "file",
+      "parant_directory": "metadata"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "metadata"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\colorama": {
+    "ansi.py": {
+      "object_size": 2522,
+      "object_type": "file",
+      "parant_directory": "colorama"
+    },
+    "ansitowin32.py": {
+      "object_size": 10830,
+      "object_type": "file",
+      "parant_directory": "colorama"
+    },
+    "initialise.py": {
+      "object_size": 1915,
+      "object_type": "file",
+      "parant_directory": "colorama"
+    },
+    "win32.py": {
+      "object_size": 5404,
+      "object_type": "file",
+      "parant_directory": "colorama"
+    },
+    "winterm.py": {
+      "object_size": 6438,
+      "object_type": "file",
+      "parant_directory": "colorama"
+    },
+    "__init__.py": {
+      "object_size": 239,
+      "object_type": "file",
+      "parant_directory": "colorama"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\distlib": {
+    "compat.py": {
+      "object_size": 41259,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "database.py": {
+      "object_size": 51697,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "index.py": {
+      "object_size": 20834,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "locators.py": {
+      "object_size": 51991,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "manifest.py": {
+      "object_size": 14811,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "markers.py": {
+      "object_size": 5058,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "metadata.py": {
+      "object_size": 39801,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "resources.py": {
+      "object_size": 10820,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "scripts.py": {
+      "object_size": 18102,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "t32.exe": {
+      "object_size": 97792,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "t64-arm.exe": {
+      "object_size": 182784,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "t64.exe": {
+      "object_size": 108032,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "util.py": {
+      "object_size": 66262,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "version.py": {
+      "object_size": 23513,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "w32.exe": {
+      "object_size": 91648,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "w64-arm.exe": {
+      "object_size": 168448,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "w64.exe": {
+      "object_size": 101888,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "wheel.py": {
+      "object_size": 43898,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    },
+    "__init__.py": {
+      "object_size": 581,
+      "object_type": "file",
+      "parant_directory": "distlib"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\distro": {
+    "distro.py": {
+      "object_size": 48841,
+      "object_type": "file",
+      "parant_directory": "distro"
+    },
+    "__init__.py": {
+      "object_size": 981,
+      "object_type": "file",
+      "parant_directory": "distro"
+    },
+    "__main__.py": {
+      "object_size": 64,
+      "object_type": "file",
+      "parant_directory": "distro"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\idna": {
+    "codec.py": {
+      "object_size": 3374,
+      "object_type": "file",
+      "parant_directory": "idna"
+    },
+    "compat.py": {
+      "object_size": 321,
+      "object_type": "file",
+      "parant_directory": "idna"
+    },
+    "core.py": {
+      "object_size": 12950,
+      "object_type": "file",
+      "parant_directory": "idna"
+    },
+    "idnadata.py": {
+      "object_size": 44375,
+      "object_type": "file",
+      "parant_directory": "idna"
+    },
+    "intranges.py": {
+      "object_size": 1881,
+      "object_type": "file",
+      "parant_directory": "idna"
+    },
+    "package_data.py": {
+      "object_size": 21,
+      "object_type": "file",
+      "parant_directory": "idna"
+    },
+    "uts46data.py": {
+      "object_size": 206539,
+      "object_type": "file",
+      "parant_directory": "idna"
+    },
+    "__init__.py": {
+      "object_size": 849,
+      "object_type": "file",
+      "parant_directory": "idna"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\msgpack": {
+    "exceptions.py": {
+      "object_size": 1081,
+      "object_type": "file",
+      "parant_directory": "msgpack"
+    },
+    "ext.py": {
+      "object_size": 6080,
+      "object_type": "file",
+      "parant_directory": "msgpack"
+    },
+    "fallback.py": {
+      "object_size": 34557,
+      "object_type": "file",
+      "parant_directory": "msgpack"
+    },
+    "__init__.py": {
+      "object_size": 1132,
+      "object_type": "file",
+      "parant_directory": "msgpack"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\packaging": {
+    "markers.py": {
+      "object_size": 8487,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "requirements.py": {
+      "object_size": 4676,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "specifiers.py": {
+      "object_size": 30110,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "tags.py": {
+      "object_size": 15699,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "utils.py": {
+      "object_size": 4200,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "version.py": {
+      "object_size": 14665,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_manylinux.py": {
+      "object_size": 11488,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_musllinux.py": {
+      "object_size": 4378,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_structures.py": {
+      "object_size": 1431,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "__about__.py": {
+      "object_size": 661,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "__init__.py": {
+      "object_size": 497,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\pep517": {
+    "in_process": {
+      "object_size": 11673,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "build.py": {
+      "object_size": 3443,
+      "object_type": "file",
+      "parant_directory": "pep517"
+    },
+    "check.py": {
+      "object_size": 6083,
+      "object_type": "file",
+      "parant_directory": "pep517"
+    },
+    "colorlog.py": {
+      "object_size": 3994,
+      "object_type": "file",
+      "parant_directory": "pep517"
+    },
+    "dirtools.py": {
+      "object_size": 607,
+      "object_type": "file",
+      "parant_directory": "pep517"
+    },
+    "envbuild.py": {
+      "object_size": 6081,
+      "object_type": "file",
+      "parant_directory": "pep517"
+    },
+    "meta.py": {
+      "object_size": 2520,
+      "object_type": "file",
+      "parant_directory": "pep517"
+    },
+    "wrappers.py": {
+      "object_size": 12721,
+      "object_type": "file",
+      "parant_directory": "pep517"
+    },
+    "_compat.py": {
+      "object_size": 138,
+      "object_type": "file",
+      "parant_directory": "pep517"
+    },
+    "__init__.py": {
+      "object_size": 130,
+      "object_type": "file",
+      "parant_directory": "pep517"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process": {
+    "_in_process.py": {
+      "object_size": 10801,
+      "object_type": "file",
+      "parant_directory": "in_process"
+    },
+    "__init__.py": {
+      "object_size": 872,
+      "object_type": "file",
+      "parant_directory": "in_process"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\pkg_resources": {
+    "py31compat.py": {
+      "object_size": 562,
+      "object_type": "file",
+      "parant_directory": "pkg_resources"
+    },
+    "__init__.py": {
+      "object_size": 108287,
+      "object_type": "file",
+      "parant_directory": "pkg_resources"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\platformdirs": {
+    "android.py": {
+      "object_size": 4068,
+      "object_type": "file",
+      "parant_directory": "platformdirs"
+    },
+    "api.py": {
+      "object_size": 4910,
+      "object_type": "file",
+      "parant_directory": "platformdirs"
+    },
+    "macos.py": {
+      "object_size": 2655,
+      "object_type": "file",
+      "parant_directory": "platformdirs"
+    },
+    "unix.py": {
+      "object_size": 6910,
+      "object_type": "file",
+      "parant_directory": "platformdirs"
+    },
+    "version.py": {
+      "object_size": 78,
+      "object_type": "file",
+      "parant_directory": "platformdirs"
+    },
+    "windows.py": {
+      "object_size": 6439,
+      "object_type": "file",
+      "parant_directory": "platformdirs"
+    },
+    "__init__.py": {
+      "object_size": 12831,
+      "object_type": "file",
+      "parant_directory": "platformdirs"
+    },
+    "__main__.py": {
+      "object_size": 1176,
+      "object_type": "file",
+      "parant_directory": "platformdirs"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\pygments": {
+    "filters": {
+      "object_size": 40386,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "formatters": {
+      "object_size": 135976,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "lexers": {
+      "object_size": 134782,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "styles": {
+      "object_size": 3419,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "cmdline.py": {
+      "object_size": 23685,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "console.py": {
+      "object_size": 1697,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "filter.py": {
+      "object_size": 1938,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "formatter.py": {
+      "object_size": 2917,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "lexer.py": {
+      "object_size": 32005,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "modeline.py": {
+      "object_size": 986,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "plugin.py": {
+      "object_size": 2591,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "regexopt.py": {
+      "object_size": 3072,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "scanner.py": {
+      "object_size": 3092,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "sphinxext.py": {
+      "object_size": 4630,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "style.py": {
+      "object_size": 6257,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "token.py": {
+      "object_size": 6184,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "unistring.py": {
+      "object_size": 63187,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "util.py": {
+      "object_size": 9110,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "__init__.py": {
+      "object_size": 2999,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    },
+    "__main__.py": {
+      "object_size": 353,
+      "object_type": "file",
+      "parant_directory": "pygments"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters": {
+    "__init__.py": {
+      "object_size": 40386,
+      "object_type": "file",
+      "parant_directory": "filters"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters": {
+    "bbcode.py": {
+      "object_size": 3314,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "groff.py": {
+      "object_size": 5086,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "html.py": {
+      "object_size": 35441,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "img.py": {
+      "object_size": 21938,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "irc.py": {
+      "object_size": 5871,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "latex.py": {
+      "object_size": 19351,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "other.py": {
+      "object_size": 5073,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "pangomarkup.py": {
+      "object_size": 2212,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "rtf.py": {
+      "object_size": 5014,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "svg.py": {
+      "object_size": 7335,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "terminal.py": {
+      "object_size": 4674,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "terminal256.py": {
+      "object_size": 11753,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "_mapping.py": {
+      "object_size": 4104,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    },
+    "__init__.py": {
+      "object_size": 4810,
+      "object_type": "file",
+      "parant_directory": "formatters"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers": {
+    "python.py": {
+      "object_size": 53376,
+      "object_type": "file",
+      "parant_directory": "lexers"
+    },
+    "_mapping.py": {
+      "object_size": 70232,
+      "object_type": "file",
+      "parant_directory": "lexers"
+    },
+    "__init__.py": {
+      "object_size": 11174,
+      "object_type": "file",
+      "parant_directory": "lexers"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles": {
+    "__init__.py": {
+      "object_size": 3419,
+      "object_type": "file",
+      "parant_directory": "styles"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\pyparsing": {
+    "diagram": {
+      "object_size": 23685,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "actions.py": {
+      "object_size": 6426,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "common.py": {
+      "object_size": 12936,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "core.py": {
+      "object_size": 213344,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "exceptions.py": {
+      "object_size": 9023,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "helpers.py": {
+      "object_size": 39129,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "results.py": {
+      "object_size": 25341,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "testing.py": {
+      "object_size": 13402,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "unicode.py": {
+      "object_size": 10787,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "util.py": {
+      "object_size": 6805,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "__init__.py": {
+      "object_size": 9171,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\diagram": {
+    "__init__.py": {
+      "object_size": 23685,
+      "object_type": "file",
+      "parant_directory": "diagram"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\requests": {
+    "adapters.py": {
+      "object_size": 21443,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "api.py": {
+      "object_size": 6377,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "auth.py": {
+      "object_size": 10187,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "certs.py": {
+      "object_size": 575,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "compat.py": {
+      "object_size": 1286,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "cookies.py": {
+      "object_size": 18560,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "exceptions.py": {
+      "object_size": 3823,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "help.py": {
+      "object_size": 3879,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "hooks.py": {
+      "object_size": 733,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "models.py": {
+      "object_size": 35287,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "packages.py": {
+      "object_size": 695,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "sessions.py": {
+      "object_size": 30180,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "status_codes.py": {
+      "object_size": 4235,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "structures.py": {
+      "object_size": 2912,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "utils.py": {
+      "object_size": 33240,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "_internal_utils.py": {
+      "object_size": 1397,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "__init__.py": {
+      "object_size": 5178,
+      "object_type": "file",
+      "parant_directory": "requests"
+    },
+    "__version__.py": {
+      "object_size": 440,
+      "object_type": "file",
+      "parant_directory": "requests"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\resolvelib": {
+    "compat": {
+      "object_size": 156,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "providers.py": {
+      "object_size": 5872,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "reporters.py": {
+      "object_size": 1583,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "resolvers.py": {
+      "object_size": 17592,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "structs.py": {
+      "object_size": 4794,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    },
+    "__init__.py": {
+      "object_size": 537,
+      "object_type": "file",
+      "parant_directory": "resolvelib"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat": {
+    "collections_abc.py": {
+      "object_size": 156,
+      "object_type": "file",
+      "parant_directory": "compat"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "compat"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\rich": {
+    "abc.py": {
+      "object_size": 890,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "align.py": {
+      "object_size": 10368,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "ansi.py": {
+      "object_size": 6820,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "bar.py": {
+      "object_size": 3264,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "box.py": {
+      "object_size": 9864,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "cells.py": {
+      "object_size": 4503,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "color.py": {
+      "object_size": 17957,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "color_triplet.py": {
+      "object_size": 1054,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "columns.py": {
+      "object_size": 7131,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "console.py": {
+      "object_size": 95885,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "constrain.py": {
+      "object_size": 1288,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "containers.py": {
+      "object_size": 5497,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "control.py": {
+      "object_size": 6630,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "default_styles.py": {
+      "object_size": 7954,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "diagnose.py": {
+      "object_size": 972,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "emoji.py": {
+      "object_size": 2501,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "errors.py": {
+      "object_size": 642,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "filesize.py": {
+      "object_size": 2507,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "file_proxy.py": {
+      "object_size": 1616,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "highlighter.py": {
+      "object_size": 9585,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "json.py": {
+      "object_size": 5051,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "jupyter.py": {
+      "object_size": 3252,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "layout.py": {
+      "object_size": 14074,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "live.py": {
+      "object_size": 14172,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "live_render.py": {
+      "object_size": 3667,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "logging.py": {
+      "object_size": 11471,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "markup.py": {
+      "object_size": 8198,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "measure.py": {
+      "object_size": 5305,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "padding.py": {
+      "object_size": 4970,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "pager.py": {
+      "object_size": 828,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "palette.py": {
+      "object_size": 3396,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "panel.py": {
+      "object_size": 8744,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "pretty.py": {
+      "object_size": 36576,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "progress.py": {
+      "object_size": 59746,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "progress_bar.py": {
+      "object_size": 8161,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "prompt.py": {
+      "object_size": 11303,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "protocol.py": {
+      "object_size": 1391,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "region.py": {
+      "object_size": 166,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "repr.py": {
+      "object_size": 4449,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "rule.py": {
+      "object_size": 4773,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "scope.py": {
+      "object_size": 2842,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "screen.py": {
+      "object_size": 1591,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "segment.py": {
+      "object_size": 24224,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "spinner.py": {
+      "object_size": 4374,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "status.py": {
+      "object_size": 4425,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "style.py": {
+      "object_size": 26240,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "styled.py": {
+      "object_size": 1258,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "syntax.py": {
+      "object_size": 34697,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "table.py": {
+      "object_size": 39515,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "terminal_theme.py": {
+      "object_size": 3370,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "text.py": {
+      "object_size": 44666,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "theme.py": {
+      "object_size": 3627,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "themes.py": {
+      "object_size": 102,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "traceback.py": {
+      "object_size": 26060,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "tree.py": {
+      "object_size": 9169,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_cell_widths.py": {
+      "object_size": 10096,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_emoji_codes.py": {
+      "object_size": 140235,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_emoji_replace.py": {
+      "object_size": 1064,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_export_format.py": {
+      "object_size": 2114,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_extension.py": {
+      "object_size": 265,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_inspect.py": {
+      "object_size": 9695,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_log_render.py": {
+      "object_size": 3225,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_loop.py": {
+      "object_size": 1236,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_palettes.py": {
+      "object_size": 7063,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_pick.py": {
+      "object_size": 423,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_ratio.py": {
+      "object_size": 5472,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_spinners.py": {
+      "object_size": 19919,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_stack.py": {
+      "object_size": 351,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_timer.py": {
+      "object_size": 417,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_win32_console.py": {
+      "object_size": 22820,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_windows.py": {
+      "object_size": 1926,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_windows_renderer.py": {
+      "object_size": 2783,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "_wrap.py": {
+      "object_size": 1840,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "__init__.py": {
+      "object_size": 5944,
+      "object_type": "file",
+      "parant_directory": "rich"
+    },
+    "__main__.py": {
+      "object_size": 8808,
+      "object_type": "file",
+      "parant_directory": "rich"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\tenacity": {
+    "after.py": {
+      "object_size": 1496,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    },
+    "before.py": {
+      "object_size": 1376,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    },
+    "before_sleep.py": {
+      "object_size": 1908,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    },
+    "nap.py": {
+      "object_size": 1383,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    },
+    "retry.py": {
+      "object_size": 7550,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    },
+    "stop.py": {
+      "object_size": 2790,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    },
+    "tornadoweb.py": {
+      "object_size": 2145,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    },
+    "wait.py": {
+      "object_size": 8011,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    },
+    "_asyncio.py": {
+      "object_size": 3314,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    },
+    "_utils.py": {
+      "object_size": 1944,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    },
+    "__init__.py": {
+      "object_size": 18364,
+      "object_type": "file",
+      "parant_directory": "tenacity"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\tomli": {
+    "_parser.py": {
+      "object_size": 22633,
+      "object_type": "file",
+      "parant_directory": "tomli"
+    },
+    "_re.py": {
+      "object_size": 2943,
+      "object_type": "file",
+      "parant_directory": "tomli"
+    },
+    "_types.py": {
+      "object_size": 254,
+      "object_type": "file",
+      "parant_directory": "tomli"
+    },
+    "__init__.py": {
+      "object_size": 396,
+      "object_type": "file",
+      "parant_directory": "tomli"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\urllib3": {
+    "contrib": {
+      "object_size": 106810,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "packages": {
+      "object_size": 36082,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "util": {
+      "object_size": 97190,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "connection.py": {
+      "object_size": 20070,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    },
+    "connectionpool.py": {
+      "object_size": 39093,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    },
+    "exceptions.py": {
+      "object_size": 8217,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    },
+    "fields.py": {
+      "object_size": 8579,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    },
+    "filepost.py": {
+      "object_size": 2440,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    },
+    "poolmanager.py": {
+      "object_size": 19786,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    },
+    "request.py": {
+      "object_size": 5985,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    },
+    "response.py": {
+      "object_size": 30109,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    },
+    "_collections.py": {
+      "object_size": 10811,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    },
+    "_version.py": {
+      "object_size": 64,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    },
+    "__init__.py": {
+      "object_size": 3333,
+      "object_type": "file",
+      "parant_directory": "urllib3"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib": {
+    "_securetransport": {
+      "object_size": 31554,
+      "object_type": "directory",
+      "parant_directory": "urllib3"
+    },
+    "appengine.py": {
+      "object_size": 11034,
+      "object_type": "file",
+      "parant_directory": "contrib"
+    },
+    "ntlmpool.py": {
+      "object_size": 4538,
+      "object_type": "file",
+      "parant_directory": "contrib"
+    },
+    "pyopenssl.py": {
+      "object_size": 17182,
+      "object_type": "file",
+      "parant_directory": "contrib"
+    },
+    "securetransport.py": {
+      "object_size": 34448,
+      "object_type": "file",
+      "parant_directory": "contrib"
+    },
+    "socks.py": {
+      "object_size": 7097,
+      "object_type": "file",
+      "parant_directory": "contrib"
+    },
+    "_appengine_environ.py": {
+      "object_size": 957,
+      "object_type": "file",
+      "parant_directory": "contrib"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "contrib"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport": {
+    "bindings.py": {
+      "object_size": 17632,
+      "object_type": "file",
+      "parant_directory": "_securetransport"
+    },
+    "low_level.py": {
+      "object_size": 13922,
+      "object_type": "file",
+      "parant_directory": "_securetransport"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "_securetransport"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages": {
+    "backports": {
+      "object_size": 1417,
+      "object_type": "directory",
+      "parant_directory": "urllib3"
+    },
+    "six.py": {
+      "object_size": 34665,
+      "object_type": "file",
+      "parant_directory": "packages"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "packages"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports": {
+    "makefile.py": {
+      "object_size": 1417,
+      "object_type": "file",
+      "parant_directory": "backports"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "backports"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util": {
+    "connection.py": {
+      "object_size": 4901,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "proxy.py": {
+      "object_size": 1605,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "queue.py": {
+      "object_size": 498,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "request.py": {
+      "object_size": 3997,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "response.py": {
+      "object_size": 3510,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "retry.py": {
+      "object_size": 22001,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "ssltransport.py": {
+      "object_size": 6895,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "ssl_.py": {
+      "object_size": 17177,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "ssl_match_hostname.py": {
+      "object_size": 5758,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "timeout.py": {
+      "object_size": 10003,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "url.py": {
+      "object_size": 14287,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "wait.py": {
+      "object_size": 5403,
+      "object_type": "file",
+      "parant_directory": "util"
+    },
+    "__init__.py": {
+      "object_size": 1155,
+      "object_type": "file",
+      "parant_directory": "util"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip\\_vendor\\webencodings": {
+    "labels.py": {
+      "object_size": 8979,
+      "object_type": "file",
+      "parant_directory": "webencodings"
+    },
+    "mklabels.py": {
+      "object_size": 1305,
+      "object_type": "file",
+      "parant_directory": "webencodings"
+    },
+    "tests.py": {
+      "object_size": 6563,
+      "object_type": "file",
+      "parant_directory": "webencodings"
+    },
+    "x_user_defined.py": {
+      "object_size": 4307,
+      "object_type": "file",
+      "parant_directory": "webencodings"
+    },
+    "__init__.py": {
+      "object_size": 10579,
+      "object_type": "file",
+      "parant_directory": "webencodings"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pip-22.3.1.dist-info": {
+    "entry_points.txt": {
+      "object_size": 125,
+      "object_type": "file",
+      "parant_directory": "pip-22.3.1.dist-info"
+    },
+    "INSTALLER": {
+      "object_size": 5,
+      "object_type": "file",
+      "parant_directory": "pip-22.3.1.dist-info"
+    },
+    "LICENSE.txt": {
+      "object_size": 1093,
+      "object_type": "file",
+      "parant_directory": "pip-22.3.1.dist-info"
+    },
+    "METADATA": {
+      "object_size": 4072,
+      "object_type": "file",
+      "parant_directory": "pip-22.3.1.dist-info"
+    },
+    "RECORD": {
+      "object_size": 71279,
+      "object_type": "file",
+      "parant_directory": "pip-22.3.1.dist-info"
+    },
+    "top_level.txt": {
+      "object_size": 4,
+      "object_type": "file",
+      "parant_directory": "pip-22.3.1.dist-info"
+    },
+    "WHEEL": {
+      "object_size": 92,
+      "object_type": "file",
+      "parant_directory": "pip-22.3.1.dist-info"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources": {
+    "extern": {
+      "object_size": 6792,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "_vendor": {
+      "object_size": 1588874,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "__pycache__": {
+      "object_size": 159619,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "__init__.py": {
+      "object_size": 108568,
+      "object_type": "file",
+      "parant_directory": "pkg_resources"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\extern": {
+    "__pycache__": {
+      "object_size": 4366,
+      "object_type": "directory",
+      "parant_directory": "pkg_resources"
+    },
+    "__init__.py": {
+      "object_size": 2426,
+      "object_type": "file",
+      "parant_directory": "extern"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\extern\\__pycache__": {
+    "__init__.cpython-311.pyc": {
+      "object_size": 4366,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor": {
+    "importlib_resources": {
+      "object_size": 25123,
+      "object_type": "directory",
+      "parant_directory": "pkg_resources"
+    },
+    "jaraco": {
+      "object_size": 91189,
+      "object_type": "directory",
+      "parant_directory": "pkg_resources"
+    },
+    "more_itertools": {
+      "object_size": 346419,
+      "object_type": "directory",
+      "parant_directory": "pkg_resources"
+    },
+    "packaging": {
+      "object_size": 231515,
+      "object_type": "directory",
+      "parant_directory": "pkg_resources"
+    },
+    "pyparsing": {
+      "object_size": 831760,
+      "object_type": "directory",
+      "parant_directory": "pkg_resources"
+    },
+    "__pycache__": {
+      "object_size": 29742,
+      "object_type": "directory",
+      "parant_directory": "pkg_resources"
+    },
+    "appdirs.py": {
+      "object_size": 24701,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    },
+    "zipp.py": {
+      "object_size": 8425,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources": {
+    "abc.py": {
+      "object_size": 3886,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "readers.py": {
+      "object_size": 3566,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "simple.py": {
+      "object_size": 2836,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "_adapters.py": {
+      "object_size": 4504,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "_common.py": {
+      "object_size": 2741,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "_compat.py": {
+      "object_size": 2706,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "_itertools.py": {
+      "object_size": 884,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "_legacy.py": {
+      "object_size": 3494,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "__init__.py": {
+      "object_size": 506,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco": {
+    "text": {
+      "object_size": 42183,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "__pycache__": {
+      "object_size": 30071,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "context.py": {
+      "object_size": 5420,
+      "object_type": "file",
+      "parant_directory": "jaraco"
+    },
+    "functools.py": {
+      "object_size": 13515,
+      "object_type": "file",
+      "parant_directory": "jaraco"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "jaraco"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text": {
+    "__pycache__": {
+      "object_size": 26657,
+      "object_type": "directory",
+      "parant_directory": "jaraco"
+    },
+    "__init__.py": {
+      "object_size": 15526,
+      "object_type": "file",
+      "parant_directory": "text"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__": {
+    "__init__.cpython-311.pyc": {
+      "object_size": 26657,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__": {
+    "context.cpython-311.pyc": {
+      "object_size": 9477,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "functools.cpython-311.pyc": {
+      "object_size": 20340,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "__init__.cpython-311.pyc": {
+      "object_size": 254,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools": {
+    "__pycache__": {
+      "object_size": 195357,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "more.py": {
+      "object_size": 132569,
+      "object_type": "file",
+      "parant_directory": "more_itertools"
+    },
+    "recipes.py": {
+      "object_size": 18410,
+      "object_type": "file",
+      "parant_directory": "more_itertools"
+    },
+    "__init__.py": {
+      "object_size": 83,
+      "object_type": "file",
+      "parant_directory": "more_itertools"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__": {
+    "more.cpython-311.pyc": {
+      "object_size": 168009,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "recipes.cpython-311.pyc": {
+      "object_size": 27000,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "__init__.cpython-311.pyc": {
+      "object_size": 348,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging": {
+    "__pycache__": {
+      "object_size": 135184,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "markers.py": {
+      "object_size": 8496,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "requirements.py": {
+      "object_size": 4706,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "specifiers.py": {
+      "object_size": 30110,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "tags.py": {
+      "object_size": 15699,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "utils.py": {
+      "object_size": 4200,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "version.py": {
+      "object_size": 14665,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_manylinux.py": {
+      "object_size": 11488,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_musllinux.py": {
+      "object_size": 4378,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_structures.py": {
+      "object_size": 1431,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "__about__.py": {
+      "object_size": 661,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "__init__.py": {
+      "object_size": 497,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__": {
+    "markers.cpython-311.pyc": {
+      "object_size": 16590,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "requirements.cpython-311.pyc": {
+      "object_size": 7705,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "specifiers.cpython-311.pyc": {
+      "object_size": 34419,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "tags.cpython-311.pyc": {
+      "object_size": 21404,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "utils.cpython-311.pyc": {
+      "object_size": 6739,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "version.cpython-311.pyc": {
+      "object_size": 21931,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "_manylinux.cpython-311.pyc": {
+      "object_size": 13285,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "_musllinux.cpython-311.pyc": {
+      "object_size": 8053,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "_structures.cpython-311.pyc": {
+      "object_size": 3741,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "__about__.cpython-311.pyc": {
+      "object_size": 698,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "__init__.cpython-311.pyc": {
+      "object_size": 619,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing": {
+    "diagram": {
+      "object_size": 23668,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "__pycache__": {
+      "object_size": 461774,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "actions.py": {
+      "object_size": 6426,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "common.py": {
+      "object_size": 12936,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "core.py": {
+      "object_size": 213310,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "exceptions.py": {
+      "object_size": 9023,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "helpers.py": {
+      "object_size": 39129,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "results.py": {
+      "object_size": 25341,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "testing.py": {
+      "object_size": 13402,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "unicode.py": {
+      "object_size": 10787,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "util.py": {
+      "object_size": 6805,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "__init__.py": {
+      "object_size": 9159,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram": {
+    "__init__.py": {
+      "object_size": 23668,
+      "object_type": "file",
+      "parant_directory": "diagram"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__": {
+    "actions.cpython-311.pyc": {
+      "object_size": 8518,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "common.cpython-311.pyc": {
+      "object_size": 14840,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "core.cpython-311.pyc": {
+      "object_size": 277692,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "exceptions.cpython-311.pyc": {
+      "object_size": 12982,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "helpers.cpython-311.pyc": {
+      "object_size": 53683,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "results.cpython-311.pyc": {
+      "object_size": 36366,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "testing.cpython-311.pyc": {
+      "object_size": 19562,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "unicode.cpython-311.pyc": {
+      "object_size": 15420,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "util.cpython-311.pyc": {
+      "object_size": 14319,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "__init__.cpython-311.pyc": {
+      "object_size": 8392,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__": {
+    "appdirs.cpython-311.pyc": {
+      "object_size": 29495,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "__init__.cpython-311.pyc": {
+      "object_size": 247,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\pkg_resources\\__pycache__": {
+    "__init__.cpython-311.pyc": {
+      "object_size": 159619,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools": {
+    "command": {
+      "object_size": 267898,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "config": {
+      "object_size": 369045,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "extern": {
+      "object_size": 2512,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "_distutils": {
+      "object_size": 604933,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "_vendor": {
+      "object_size": 839953,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "archive_util.py": {
+      "object_size": 7346,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "build_meta.py": {
+      "object_size": 19539,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "cli-32.exe": {
+      "object_size": 65536,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "cli-64.exe": {
+      "object_size": 74752,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "cli-arm64.exe": {
+      "object_size": 137216,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "cli.exe": {
+      "object_size": 65536,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "depends.py": {
+      "object_size": 5499,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "dep_util.py": {
+      "object_size": 949,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "discovery.py": {
+      "object_size": 20799,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "dist.py": {
+      "object_size": 45578,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "errors.py": {
+      "object_size": 2464,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "extension.py": {
+      "object_size": 5591,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "glob.py": {
+      "object_size": 4873,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "gui-32.exe": {
+      "object_size": 65536,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "gui-64.exe": {
+      "object_size": 75264,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "gui-arm64.exe": {
+      "object_size": 137728,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "gui.exe": {
+      "object_size": 65536,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "installer.py": {
+      "object_size": 3824,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "launch.py": {
+      "object_size": 812,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "logging.py": {
+      "object_size": 1210,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "monkey.py": {
+      "object_size": 4857,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "msvc.py": {
+      "object_size": 47724,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "namespaces.py": {
+      "object_size": 3093,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "package_index.py": {
+      "object_size": 40329,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "py34compat.py": {
+      "object_size": 245,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "sandbox.py": {
+      "object_size": 14348,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "script (dev).tmpl": {
+      "object_size": 218,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "script.tmpl": {
+      "object_size": 138,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "unicode_utils.py": {
+      "object_size": 941,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "version.py": {
+      "object_size": 144,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "wheel.py": {
+      "object_size": 8376,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "windows_support.py": {
+      "object_size": 718,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "_deprecation_warning.py": {
+      "object_size": 218,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "_entry_points.py": {
+      "object_size": 1972,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "_imp.py": {
+      "object_size": 2392,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "_importlib.py": {
+      "object_size": 1311,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "_itertools.py": {
+      "object_size": 675,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "_path.py": {
+      "object_size": 749,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "_reqs.py": {
+      "object_size": 501,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    },
+    "__init__.py": {
+      "object_size": 8429,
+      "object_type": "file",
+      "parant_directory": "setuptools"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\command": {
+    "alias.py": {
+      "object_size": 2381,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "bdist_egg.py": {
+      "object_size": 16623,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "bdist_rpm.py": {
+      "object_size": 1182,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "build.py": {
+      "object_size": 6589,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "build_clib.py": {
+      "object_size": 4415,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "build_ext.py": {
+      "object_size": 15821,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "build_py.py": {
+      "object_size": 14115,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "develop.py": {
+      "object_size": 7012,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "dist_info.py": {
+      "object_size": 4800,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "easy_install.py": {
+      "object_size": 85662,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "editable_wheel.py": {
+      "object_size": 31188,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "egg_info.py": {
+      "object_size": 26795,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "install.py": {
+      "object_size": 5163,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "install_egg_info.py": {
+      "object_size": 2226,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "install_lib.py": {
+      "object_size": 3875,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "install_scripts.py": {
+      "object_size": 2612,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "launcher manifest.xml": {
+      "object_size": 628,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "py36compat.py": {
+      "object_size": 4946,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "register.py": {
+      "object_size": 468,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "rotate.py": {
+      "object_size": 2128,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "saveopts.py": {
+      "object_size": 658,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "sdist.py": {
+      "object_size": 7071,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "setopt.py": {
+      "object_size": 5086,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "test.py": {
+      "object_size": 8102,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "upload.py": {
+      "object_size": 462,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "upload_docs.py": {
+      "object_size": 7494,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "__init__.py": {
+      "object_size": 396,
+      "object_type": "file",
+      "parant_directory": "command"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\config": {
+    "_validate_pyproject": {
+      "object_size": 293705,
+      "object_type": "directory",
+      "parant_directory": "setuptools"
+    },
+    "expand.py": {
+      "object_size": 16319,
+      "object_type": "file",
+      "parant_directory": "config"
+    },
+    "pyprojecttoml.py": {
+      "object_size": 19304,
+      "object_type": "file",
+      "parant_directory": "config"
+    },
+    "setupcfg.py": {
+      "object_size": 25198,
+      "object_type": "file",
+      "parant_directory": "config"
+    },
+    "_apply_pyprojecttoml.py": {
+      "object_size": 13398,
+      "object_type": "file",
+      "parant_directory": "config"
+    },
+    "__init__.py": {
+      "object_size": 1121,
+      "object_type": "file",
+      "parant_directory": "config"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject": {
+    "error_reporting.py": {
+      "object_size": 11266,
+      "object_type": "file",
+      "parant_directory": "_validate_pyproject"
+    },
+    "extra_validations.py": {
+      "object_size": 1153,
+      "object_type": "file",
+      "parant_directory": "_validate_pyproject"
+    },
+    "fastjsonschema_exceptions.py": {
+      "object_size": 1612,
+      "object_type": "file",
+      "parant_directory": "_validate_pyproject"
+    },
+    "fastjsonschema_validations.py": {
+      "object_size": 269900,
+      "object_type": "file",
+      "parant_directory": "_validate_pyproject"
+    },
+    "formats.py": {
+      "object_size": 8736,
+      "object_type": "file",
+      "parant_directory": "_validate_pyproject"
+    },
+    "__init__.py": {
+      "object_size": 1038,
+      "object_type": "file",
+      "parant_directory": "_validate_pyproject"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\extern": {
+    "__init__.py": {
+      "object_size": 2512,
+      "object_type": "file",
+      "parant_directory": "extern"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_distutils": {
+    "command": {
+      "object_size": 208459,
+      "object_type": "directory",
+      "parant_directory": "setuptools"
+    },
+    "archive_util.py": {
+      "object_size": 8603,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "bcppcompiler.py": {
+      "object_size": 14789,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "ccompiler.py": {
+      "object_size": 47369,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "cmd.py": {
+      "object_size": 17973,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "config.py": {
+      "object_size": 4920,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "core.py": {
+      "object_size": 9451,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "cygwinccompiler.py": {
+      "object_size": 12537,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "debug.py": {
+      "object_size": 139,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "dep_util.py": {
+      "object_size": 3423,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "dir_util.py": {
+      "object_size": 8082,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "dist.py": {
+      "object_size": 50186,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "errors.py": {
+      "object_size": 3589,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "extension.py": {
+      "object_size": 10270,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "fancy_getopt.py": {
+      "object_size": 17910,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "filelist.py": {
+      "object_size": 13713,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "file_util.py": {
+      "object_size": 8226,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "log.py": {
+      "object_size": 1972,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "msvc9compiler.py": {
+      "object_size": 30235,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "msvccompiler.py": {
+      "object_size": 23602,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "py38compat.py": {
+      "object_size": 217,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "py39compat.py": {
+      "object_size": 639,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "spawn.py": {
+      "object_size": 3517,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "sysconfig.py": {
+      "object_size": 18858,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "text_file.py": {
+      "object_size": 12096,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "unixccompiler.py": {
+      "object_size": 15641,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "util.py": {
+      "object_size": 18128,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "version.py": {
+      "object_size": 12952,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "versionpredicate.py": {
+      "object_size": 5248,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "_collections.py": {
+      "object_size": 1330,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "_functools.py": {
+      "object_size": 411,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "_macos_compat.py": {
+      "object_size": 239,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "_msvccompiler.py": {
+      "object_size": 19672,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    },
+    "__init__.py": {
+      "object_size": 537,
+      "object_type": "file",
+      "parant_directory": "_distutils"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_distutils\\command": {
+    "bdist.py": {
+      "object_size": 5441,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "bdist_dumb.py": {
+      "object_size": 4701,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "bdist_rpm.py": {
+      "object_size": 22051,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "build.py": {
+      "object_size": 5617,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "build_clib.py": {
+      "object_size": 7728,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "build_ext.py": {
+      "object_size": 31558,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "build_py.py": {
+      "object_size": 16568,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "build_scripts.py": {
+      "object_size": 5624,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "check.py": {
+      "object_size": 4888,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "clean.py": {
+      "object_size": 2603,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "config.py": {
+      "object_size": 13137,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "install.py": {
+      "object_size": 30221,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "install_data.py": {
+      "object_size": 2779,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "install_egg_info.py": {
+      "object_size": 2785,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "install_headers.py": {
+      "object_size": 1189,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "install_lib.py": {
+      "object_size": 8434,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "install_scripts.py": {
+      "object_size": 1936,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "py37compat.py": {
+      "object_size": 672,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "register.py": {
+      "object_size": 11765,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "sdist.py": {
+      "object_size": 19241,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "upload.py": {
+      "object_size": 7477,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "_framework_compat.py": {
+      "object_size": 1614,
+      "object_type": "file",
+      "parant_directory": "command"
+    },
+    "__init__.py": {
+      "object_size": 430,
+      "object_type": "file",
+      "parant_directory": "command"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_vendor": {
+    "importlib_metadata": {
+      "object_size": 42846,
+      "object_type": "directory",
+      "parant_directory": "setuptools"
+    },
+    "importlib_resources": {
+      "object_size": 25123,
+      "object_type": "directory",
+      "parant_directory": "setuptools"
+    },
+    "jaraco": {
+      "object_size": 34449,
+      "object_type": "directory",
+      "parant_directory": "setuptools"
+    },
+    "more_itertools": {
+      "object_size": 134297,
+      "object_type": "directory",
+      "parant_directory": "setuptools"
+    },
+    "packaging": {
+      "object_size": 96322,
+      "object_type": "directory",
+      "parant_directory": "setuptools"
+    },
+    "pyparsing": {
+      "object_size": 369986,
+      "object_type": "directory",
+      "parant_directory": "setuptools"
+    },
+    "tomli": {
+      "object_size": 26226,
+      "object_type": "directory",
+      "parant_directory": "setuptools"
+    },
+    "ordered_set.py": {
+      "object_size": 15130,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    },
+    "typing_extensions.py": {
+      "object_size": 87149,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    },
+    "zipp.py": {
+      "object_size": 8425,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "_vendor"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata": {
+    "_adapters.py": {
+      "object_size": 1862,
+      "object_type": "file",
+      "parant_directory": "importlib_metadata"
+    },
+    "_collections.py": {
+      "object_size": 743,
+      "object_type": "file",
+      "parant_directory": "importlib_metadata"
+    },
+    "_compat.py": {
+      "object_size": 1828,
+      "object_type": "file",
+      "parant_directory": "importlib_metadata"
+    },
+    "_functools.py": {
+      "object_size": 2895,
+      "object_type": "file",
+      "parant_directory": "importlib_metadata"
+    },
+    "_itertools.py": {
+      "object_size": 2068,
+      "object_type": "file",
+      "parant_directory": "importlib_metadata"
+    },
+    "_meta.py": {
+      "object_size": 1154,
+      "object_type": "file",
+      "parant_directory": "importlib_metadata"
+    },
+    "_text.py": {
+      "object_size": 2166,
+      "object_type": "file",
+      "parant_directory": "importlib_metadata"
+    },
+    "__init__.py": {
+      "object_size": 30130,
+      "object_type": "file",
+      "parant_directory": "importlib_metadata"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources": {
+    "abc.py": {
+      "object_size": 3886,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "readers.py": {
+      "object_size": 3566,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "simple.py": {
+      "object_size": 2836,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "_adapters.py": {
+      "object_size": 4504,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "_common.py": {
+      "object_size": 2741,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "_compat.py": {
+      "object_size": 2706,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "_itertools.py": {
+      "object_size": 884,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "_legacy.py": {
+      "object_size": 3494,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    },
+    "__init__.py": {
+      "object_size": 506,
+      "object_type": "file",
+      "parant_directory": "importlib_resources"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_vendor\\jaraco": {
+    "text": {
+      "object_size": 15517,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "context.py": {
+      "object_size": 5420,
+      "object_type": "file",
+      "parant_directory": "jaraco"
+    },
+    "functools.py": {
+      "object_size": 13512,
+      "object_type": "file",
+      "parant_directory": "jaraco"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "jaraco"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text": {
+    "__init__.py": {
+      "object_size": 15517,
+      "object_type": "file",
+      "parant_directory": "text"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools": {
+    "more.py": {
+      "object_size": 117959,
+      "object_type": "file",
+      "parant_directory": "more_itertools"
+    },
+    "recipes.py": {
+      "object_size": 16256,
+      "object_type": "file",
+      "parant_directory": "more_itertools"
+    },
+    "__init__.py": {
+      "object_size": 82,
+      "object_type": "file",
+      "parant_directory": "more_itertools"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_vendor\\packaging": {
+    "markers.py": {
+      "object_size": 8493,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "requirements.py": {
+      "object_size": 4700,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "specifiers.py": {
+      "object_size": 30110,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "tags.py": {
+      "object_size": 15699,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "utils.py": {
+      "object_size": 4200,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "version.py": {
+      "object_size": 14665,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_manylinux.py": {
+      "object_size": 11488,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_musllinux.py": {
+      "object_size": 4378,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_structures.py": {
+      "object_size": 1431,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "__about__.py": {
+      "object_size": 661,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "__init__.py": {
+      "object_size": 497,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing": {
+    "diagram": {
+      "object_size": 23668,
+      "object_type": "directory",
+      "parant_directory": "_vendor"
+    },
+    "actions.py": {
+      "object_size": 6426,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "common.py": {
+      "object_size": 12936,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "core.py": {
+      "object_size": 213310,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "exceptions.py": {
+      "object_size": 9023,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "helpers.py": {
+      "object_size": 39129,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "results.py": {
+      "object_size": 25341,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "testing.py": {
+      "object_size": 13402,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "unicode.py": {
+      "object_size": 10787,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "util.py": {
+      "object_size": 6805,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    },
+    "__init__.py": {
+      "object_size": 9159,
+      "object_type": "file",
+      "parant_directory": "pyparsing"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram": {
+    "__init__.py": {
+      "object_size": 23668,
+      "object_type": "file",
+      "parant_directory": "diagram"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools\\_vendor\\tomli": {
+    "_parser.py": {
+      "object_size": 22633,
+      "object_type": "file",
+      "parant_directory": "tomli"
+    },
+    "_re.py": {
+      "object_size": 2943,
+      "object_type": "file",
+      "parant_directory": "tomli"
+    },
+    "_types.py": {
+      "object_size": 254,
+      "object_type": "file",
+      "parant_directory": "tomli"
+    },
+    "__init__.py": {
+      "object_size": 396,
+      "object_type": "file",
+      "parant_directory": "tomli"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\setuptools-65.5.1.dist-info": {
+    "entry_points.txt": {
+      "object_size": 2740,
+      "object_type": "file",
+      "parant_directory": "setuptools-65.5.1.dist-info"
+    },
+    "INSTALLER": {
+      "object_size": 5,
+      "object_type": "file",
+      "parant_directory": "setuptools-65.5.1.dist-info"
+    },
+    "LICENSE": {
+      "object_size": 1050,
+      "object_type": "file",
+      "parant_directory": "setuptools-65.5.1.dist-info"
+    },
+    "METADATA": {
+      "object_size": 6311,
+      "object_type": "file",
+      "parant_directory": "setuptools-65.5.1.dist-info"
+    },
+    "RECORD": {
+      "object_size": 35656,
+      "object_type": "file",
+      "parant_directory": "setuptools-65.5.1.dist-info"
+    },
+    "top_level.txt": {
+      "object_size": 41,
+      "object_type": "file",
+      "parant_directory": "setuptools-65.5.1.dist-info"
+    },
+    "WHEEL": {
+      "object_size": 92,
+      "object_type": "file",
+      "parant_directory": "setuptools-65.5.1.dist-info"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\wheel": {
+    "cli": {
+      "object_size": 15853,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "vendored": {
+      "object_size": 31475,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "bdist_wheel.py": {
+      "object_size": 19293,
+      "object_type": "file",
+      "parant_directory": "wheel"
+    },
+    "macosx_libfile.py": {
+      "object_size": 16145,
+      "object_type": "file",
+      "parant_directory": "wheel"
+    },
+    "metadata.py": {
+      "object_size": 3727,
+      "object_type": "file",
+      "parant_directory": "wheel"
+    },
+    "util.py": {
+      "object_size": 621,
+      "object_type": "file",
+      "parant_directory": "wheel"
+    },
+    "wheelfile.py": {
+      "object_size": 7536,
+      "object_type": "file",
+      "parant_directory": "wheel"
+    },
+    "_setuptools_logging.py": {
+      "object_size": 746,
+      "object_type": "file",
+      "parant_directory": "wheel"
+    },
+    "__init__.py": {
+      "object_size": 59,
+      "object_type": "file",
+      "parant_directory": "wheel"
+    },
+    "__main__.py": {
+      "object_size": 455,
+      "object_type": "file",
+      "parant_directory": "wheel"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\wheel\\cli": {
+    "convert.py": {
+      "object_size": 9427,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "pack.py": {
+      "object_size": 3383,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "unpack.py": {
+      "object_size": 659,
+      "object_type": "file",
+      "parant_directory": "cli"
+    },
+    "__init__.py": {
+      "object_size": 2384,
+      "object_type": "file",
+      "parant_directory": "cli"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\wheel\\vendored": {
+    "packaging": {
+      "object_size": 31475,
+      "object_type": "directory",
+      "parant_directory": "wheel"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "vendored"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\wheel\\vendored\\packaging": {
+    "tags.py": {
+      "object_size": 15612,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_manylinux.py": {
+      "object_size": 11489,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "_musllinux.py": {
+      "object_size": 4374,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "packaging"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\wheel-0.38.4.dist-info": {
+    "entry_points.txt": {
+      "object_size": 107,
+      "object_type": "file",
+      "parant_directory": "wheel-0.38.4.dist-info"
+    },
+    "INSTALLER": {
+      "object_size": 5,
+      "object_type": "file",
+      "parant_directory": "wheel-0.38.4.dist-info"
+    },
+    "LICENSE.txt": {
+      "object_size": 1107,
+      "object_type": "file",
+      "parant_directory": "wheel-0.38.4.dist-info"
+    },
+    "METADATA": {
+      "object_size": 2110,
+      "object_type": "file",
+      "parant_directory": "wheel-0.38.4.dist-info"
+    },
+    "RECORD": {
+      "object_size": 2835,
+      "object_type": "file",
+      "parant_directory": "wheel-0.38.4.dist-info"
+    },
+    "top_level.txt": {
+      "object_size": 6,
+      "object_type": "file",
+      "parant_directory": "wheel-0.38.4.dist-info"
+    },
+    "WHEEL": {
+      "object_size": 92,
+      "object_type": "file",
+      "parant_directory": "wheel-0.38.4.dist-info"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\_distutils_hack": {
+    "__pycache__": {
+      "object_size": 11206,
+      "object_type": "directory",
+      "parant_directory": "site-packages"
+    },
+    "override.py": {
+      "object_size": 44,
+      "object_type": "file",
+      "parant_directory": "_distutils_hack"
+    },
+    "__init__.py": {
+      "object_size": 6128,
+      "object_type": "file",
+      "parant_directory": "_distutils_hack"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\_distutils_hack\\__pycache__": {
+    "__init__.cpython-311.pyc": {
+      "object_size": 11206,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Lib\\site-packages\\__pycache__": {
+    "_virtualenv.cpython-311.pyc": {
+      "object_size": 6963,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Seminar8\\Scripts": {
+    "activate": {
+      "object_size": 2206,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "activate.bat": {
+      "object_size": 1059,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "activate.fish": {
+      "object_size": 3083,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "activate.nu": {
+      "object_size": 2685,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "activate.ps1": {
+      "object_size": 1758,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "activate_this.py": {
+      "object_size": 1169,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "deactivate.bat": {
+      "object_size": 511,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "deactivate.nu": {
+      "object_size": 682,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "pip-3.11.exe": {
+      "object_size": 108461,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "pip.exe": {
+      "object_size": 108461,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "pip3.11.exe": {
+      "object_size": 108461,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "pip3.exe": {
+      "object_size": 108461,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "pydoc.bat": {
+      "object_size": 24,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "python.exe": {
+      "object_size": 270616,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "pythonw.exe": {
+      "object_size": 259344,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "wheel-3.11.exe": {
+      "object_size": 108448,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "wheel.exe": {
+      "object_size": 108448,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "wheel3.11.exe": {
+      "object_size": 108448,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    },
+    "wheel3.exe": {
+      "object_size": 108448,
+      "object_type": "file",
+      "parant_directory": "Scripts"
+    }
+  }
+}
