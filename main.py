@@ -1,6 +1,6 @@
 from File_manager.create_file_txt import create_file_txt
 from File_manager.txt_to_json import txt_to_json
-from File_manager.create_file_json import  func
+from File_manager.create_file_json import func
 from File_manager.json_to_csv import json_to_csv
 from File_manager.csv_to_json import csv_to_json
 from File_manager.directory_reference import directory_reference
